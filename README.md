@@ -546,7 +546,7 @@ To https://github.com/AL2002MI08/Git-exercise.git
 PS C:\Users\student\Downloads\git_exercise>
   ```
 ## BUNDLE 3
-  #Exercise 1
+ # Exercise 1
   ```
   PS C:\Users\student\Downloads\git_exercise> git add team.html
 PS C:\Users\student\Downloads\git_exercise> git commit -m "created team page"
